@@ -2,4 +2,4 @@
 
 small javascript project (game).
 
-<img src="screenshot.png" width="200">
+<img src="screenshot.PNG" width="200">
